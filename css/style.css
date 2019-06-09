@@ -26,7 +26,7 @@ change these colors to change overlays
 	color: #6EB377;
 }
 .mz-module:hover .ot-circle.color4 {
-	color: #FCBE03;
+	color: #ff0000;
 }
 
 /*--------------------
@@ -64,7 +64,7 @@ color: #B1B1B1;
 }
 
 a:hover, a:focus, a:active, a.active {
-	color: #fec503;
+	color: #ff0000;
 }
 a, a:hover, a:focus, a:active, a.active {
 	outline: 0;
@@ -146,7 +146,7 @@ section ul li:before {
 	margin-left: 10px;
 }
 .navbar-default .navbar-brand:hover,.navbar-default .navbar-brand:focus,.navbar-default .navbar-brand:active,.navbar-default .navbar-brand.active {
-	color: #fec503
+	color: #ff0000
 }
 .navbar-default .navbar-collapse {
 	border-color: rgba(255,255,255,.02)
@@ -181,7 +181,7 @@ section ul li:before {
 }
 .navbar-default .navbar-nav>.active>a:hover,.navbar-default .navbar-nav>.active>a:focus {
 	color: #fff;
-	background-color: #fec503
+	background-color: #ff0000
 }
 
 @media (min-width:768px) {
@@ -362,7 +362,7 @@ header {
 .section-cta {
 	padding: 40px 0;
 	color: #fff;
-	background-color: #fcbe03;
+	background-color: #ff0000;
 }
 
 .section-cta h2 {
@@ -738,7 +738,7 @@ figure.effect-bubba:hover p {
 }
 
 .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
-    background: #FCBE03;
+    background: #ff0000;
 }
 
 .owl-theme .owl-dots .owl-dot span {
@@ -759,7 +759,7 @@ figure.effect-bubba:hover p {
 }
 
 .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
-    background: #FCBE03;
+    background: #ff0000;
 }
 
 /*--------------------
@@ -949,12 +949,12 @@ font-size: 11px;
 	background-image: none;
 	border: 1px solid transparent;
 	border-radius: 0px;
-	background-color: #FCBE03;
+	background-color: #ff0000;
 }
 
 .btn-xl {
 color: #fff;
-    background-color: #FCBE03;
+    background-color: #ff0000;
     /* border-color: #726FB9; */
     font-family: "Open Sans",sans-serif;
     text-transform: uppercase;
