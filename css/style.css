@@ -408,7 +408,7 @@ header {
     border: 1px solid #E6E6EA;
     min-height: 280px;
     padding: 20px;
-    background-color: #EFEFF1;
+    background-color: #FFFFFF;
 }
 
 .mz-module-about h3 {
@@ -934,7 +934,8 @@ font-size: 11px;
 	padding: 8px 20px;
 	margin-bottom: 0;
 	font-size: 14px;
-	font-weight: 400;
+	color: #FFFFFF;
+	font-weight: 500;
 	line-height: 1.42857143;
 	text-align: center;
 	white-space: nowrap;
